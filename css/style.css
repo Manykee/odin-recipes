@@ -1,3 +1,47 @@
+* {
+    font-family: "Verdana";
+}
+
+html {
+    background-color: bisque;
+}
+
+body {
+    background-color: antiquewhite;
+    text-align: left;
+    width: 60vh;
+    margin: 5vh auto;
+    padding: 3vh;
+    border: solid 5px black;
+    border-radius: 15px;
+}
+
 h1 {
-    color: blue;
+    text-align: center;
+    padding: 20px 0px;
+    margin: 5px auto 10px;
+}
+
+ul, li {
+    list-style-type: none;
+    align-self: center;
+
+}
+
+img {
+    height:auto;
+    width: 60vh;
+}
+
+a {
+    align-items: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+
+input {
+    background-color: black;
+    color:white;
+    font-size: 17px;
 }
